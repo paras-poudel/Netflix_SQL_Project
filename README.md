@@ -1,7 +1,7 @@
 ### Netflix Data Analysis in MySQL
 This project analyzes the Netflix Movies and TV Shows dataset using MySQL. It includes database setup, data import, exploratory analysis, and advanced SQL queries (CTEs, string functions, grouping) to uncover insights into Netflix’s content catalog.
 
-##Objectives
+## Objectives
 1. Create and set up a MySQL database for the Netflix dataset
 2. Import data from CSV into relational tables
 3. Analyze content distribution (Movies vs TV Shows, ratings, durations)
