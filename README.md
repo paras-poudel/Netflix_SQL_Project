@@ -43,17 +43,5 @@ This project analyzes the Netflix Movies and TV Shows dataset using MySQL. It in
 MySQL 8.0 or later
 Netflix dataset (from Kaggle: Netflix Movies and TV Shows)
 
-## How to Run
-### Clone this repository:
-  git clone https://github.com/your-username/netflix-mysql-analysis.git
-  cd netflix-mysql-analysis
-
-### Create and select a MySQL database:
-  CREATE DATABASE netflix_db;
-  USE netflix_db;
-  Run the SQL script:
-  mysql -u your_username -p netflix_db < netflix.sql
-
-
 ### Ensure netflix_titles.csv is placed inside your MySQL secure_file_priv folder
  (e.g., C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/).
